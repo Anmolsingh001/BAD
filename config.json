@@ -1,0 +1,9 @@
+{
+   "auto-night-skip": "false",
+   "ip": "yt_games_of_devil.aternos.me",
+   "login-cmd": "/login BAD",
+   "login-enabled": "true",
+   "name": "BAD",
+   "port": "21073",
+   "register-cmd": "/register BAD"
+}
